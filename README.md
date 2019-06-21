@@ -1,4 +1,5 @@
 # GitLabrador
+This Chrome extension allows you to fold any board in your GitLab issue board. It also adds humanized last updated date and estimate of each issues.
 
 ## How do I use it?
 1. Clone this repo `git clone git@github.com:himalay/GitLabrador.git`
